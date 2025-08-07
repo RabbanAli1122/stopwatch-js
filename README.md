@@ -36,7 +36,7 @@ timerDisplay.innerHTML = `${minsString} : ${secsString} : ${msecString}`;
 2. ```style.css``` – Styles the stopwatch UI
 3. ```script.js``` – Controls stopwatch logic (start, stop, reset)
 4. ```Readme.md``` - Contains information related to repo
-5. ```LICENCE``` - MIT-Licence
+5. ```LICENSE``` - MIT-License
 
    
 ## 🚀 How to Run
