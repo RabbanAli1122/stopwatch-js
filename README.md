@@ -58,7 +58,6 @@ open index.html     # For macOS
 3. Improving CSS aesthetics with shadows and gradients
 
 ## 🖼️ Demo
-- [Watch Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/105205500/453787189-64642ab0-1267-4dae-bf64-2de604e2082e.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250807T084601Z&X-Amz-Expires=300&X-Amz-Signature=ec2113687620a63069178eae521591cfc549a07732dddbe887972695ea4c872a&X-Amz-SignedHeaders=host)
 - [Github Pages](https://rabbanali1122.github.io/stopwatch-js/)
 
 
